@@ -10,11 +10,3 @@ function sayYep() {
 function useful() {
     alert("I'm udrgul function");
 }
-
-function veryUseful() {
-    alert("I'm useful function");
-}
-
-function wrongFunction(){
-    alert("Mistake");
-}
