@@ -14,3 +14,7 @@ function useful() {
 function veryUseful() {
     alert("I'm useful function");
 }
+
+function wrongFunction(){
+    alert("Mistake");
+}
