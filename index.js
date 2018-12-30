@@ -6,3 +6,7 @@ function greetings() {
 function sayYep() {
     alert('Yep!');
 }
+
+function useful() {
+    alert("I'm udrgul function");
+}
